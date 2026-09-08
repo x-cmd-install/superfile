@@ -5,13 +5,13 @@ about:
   head: b2af9a6
   archived: false
   latestVersion: "v1.6.0"
-  collectedAt: 2026-09-08T01:39:19Z
+  collectedAt: 2026-09-08T04:16:40Z
 timeline:
   created: 2024-03-19
   lastCommit: 2026-09-06
   lastRelease: 2026-06-07
 popularity:
-  star: 23123
+  star: 23125
   watcher: 73
   fork: 854
   release: 26
@@ -93,7 +93,7 @@ total:
   commit: 2279
 ---
 path: /home/runner/.x-repo/github.com/yorukot/superfile
-collectedAt: 2026-09-08T01:39:26Z
+collectedAt: 2026-09-08T04:16:49Z
 loc:
   Go:
     code: 21882
