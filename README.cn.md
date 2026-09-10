@@ -4,7 +4,7 @@
 
 Pretty fancy and modern terminal file manager
 
-![superfile](https://repo.x-cmd.io/superfile.svg)
+![superfile](https://repo.x-cmd.io/superfile.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,22 @@ x install superfile
 - **最新版本**: `v1.6.0` (2026-06-07)
 - **最近提交**: 2026-09-06
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-06-07T17:54:13Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [superfile-darwin-v1.6.0-amd64.tar.gz](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-darwin-v1.6.0-amd64.tar.gz) | 13.2 MiB | `native/darwin/x64` |
+| [superfile-darwin-v1.6.0-arm64.tar.gz](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-darwin-v1.6.0-arm64.tar.gz) | 12.4 MiB | `native/darwin/arm64` |
+| [superfile-linux-v1.6.0-amd64.tar.gz](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-linux-v1.6.0-amd64.tar.gz) | 12.9 MiB | `native/linux/x64` |
+| [superfile-linux-v1.6.0-arm64.tar.gz](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-linux-v1.6.0-arm64.tar.gz) | 11.8 MiB | `native/linux/arm64` |
+| [superfile-v1.6.0-checksums.txt](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-v1.6.0-checksums.txt) | 612 B | `other` |
+| [superfile-windows-v1.6.0-amd64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-windows-v1.6.0-amd64.zip) | 13.1 MiB | `native/win/x64` |
+| [superfile-windows-v1.6.0-arm64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-windows-v1.6.0-arm64.zip) | 12.0 MiB | `native/win/arm64` |
 
 ## 流行度
 
-- **Star**: 23,141 · **Fork**: 844 · **开放 issue**: 598 · **贡献者**: 119
+- **Star**: 23,143 · **Fork**: 844 · **开放 issue**: 598 · **贡献者**: 119
 
 ## 累计统计
 
@@ -62,4 +73,4 @@ superfile 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:20:07Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:07:47Z._
