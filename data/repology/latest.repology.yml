@@ -1,0 +1,661 @@
+- repo: aerynos
+  srcname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  licenses:
+    - MIT
+- repo: alt_p11
+  srcname: superfile
+  binnames:
+    - superfile
+    - superfile-debuginfo
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-alt2
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - amakeenk@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - File tools
+- repo: altsisyphus
+  srcname: superfile
+  binnames:
+    - superfile
+    - superfile-debuginfo
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-alt2
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - amakeenk@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - File tools
+- repo: arch
+  subrepo: extra
+  srcname: superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  licenses:
+    - MIT
+- repo: aur
+  srcname: superfile-git
+  binname: superfile-git
+  visiblename: superfile-git
+  version: v1.4.1.rc.r14.g054fbe4
+  origversion: v1.4.1.rc.r14.g054fbe4-1
+  status: rolling
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - booth-w@aur
+  licenses:
+    - MIT
+- repo: artix
+  subrepo: galaxy
+  srcname: superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: superfile
+  visiblename: Superfile (Portable)
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+- repo: freebsd
+  srcname: sysutils/superfile
+  binname: superfile
+  visiblename: sysutils/superfile
+  version: 1.6.1.0.20260618150422
+  origversion: 1.6.1.0.20260618150422_4,1
+  status: untrusted
+  summary: Terminal file manager
+  maintainers:
+    - fuz@freebsd.org
+  categories:
+    - sysutils
+- repo: gentoo_ovl_guru
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - guru@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - GPL-3
+    - ISC
+    - MPL-2.0
+    - OFL-1.1
+    - Unlicense
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - ingenarel_neojesus@disroot.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - GPL-3
+    - ISC
+    - MPL-2.0
+    - OFL-1.1
+    - Unlicense
+  categories:
+    - app-misc
+- repo: gentoo_ovl_guru
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: 1.5.0
+  origversion: null
+  status: legacy
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - guru@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - GPL-3
+    - ISC
+    - MPL-2.0
+  categories:
+    - app-misc
+- repo: gentoo_ovl_guru
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - guru@gentoo.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - GPL-3
+    - ISC
+    - MPL-2.0
+    - OFL-1.1
+    - Unlicense
+  categories:
+    - app-misc
+- repo: homebrew
+  srcname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Modern and pretty fancy file manager for the terminal
+- repo: liguros_stable
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: 1.1.7.1
+  origversion: null
+  status: legacy
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - ingenarelitems@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - app-misc
+- repo: liguros_stable
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - ingenarelitems@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - app-misc
+- repo: liguros_stable
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: 1.3.2
+  origversion: null
+  status: legacy
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - ingenarelitems@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - app-misc
+- repo: liguros_stable
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: 1.2.0.0
+  origversion: null
+  status: legacy
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - ingenarelitems@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - app-misc
+- repo: liguros_stable
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: 1.3.1
+  origversion: null
+  status: legacy
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - ingenarelitems@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - app-misc
+- repo: liguros_stable
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: 1.3.3
+  origversion: null
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - ingenarelitems@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - app-misc
+- repo: liguros_stable
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: 1.2.1
+  origversion: null
+  status: legacy
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - ingenarelitems@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - ingenarel_neojesus@disroot.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - CC0-1.0
+    - GPL-3
+    - ISC
+    - MPL-2.0
+    - OFL-1.1
+    - Unlicense
+  categories:
+    - app-misc
+- repo: liguros_develop
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: 1.5.0
+  origversion: null
+  status: legacy
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - ingenarel_neojesus@disroot.org
+  licenses:
+    - MIT
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - GPL-3
+    - ISC
+    - MPL-2.0
+  categories:
+    - app-misc
+- repo: macports
+  srcname: sysutils/superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - MIT
+  categories:
+    - sysutils
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: superfile
+  visiblename: superfile
+  version: 1.1.2
+  origversion: null
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - me@momee.mt
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: superfile
+  visiblename: superfile
+  version: 1.1.5
+  origversion: null
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - me@momee.mt
+    - mateusalvespereira7@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: superfile
+  visiblename: superfile
+  version: 1.2.1
+  origversion: null
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - me@momee.mt
+    - mateusalvespereira7@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: superfile
+  visiblename: superfile
+  version: 1.3.3
+  origversion: null
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - me@momee.mt
+    - mateusalvespereira7@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: superfile
+  visiblename: superfile
+  version: 1.3.3
+  origversion: null
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - me@momee.mt
+    - mateusalvespereira7@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: superfile
+  visiblename: superfile
+  version: 1.3.3
+  origversion: null
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - mateusalvespereira7@gmail.com
+  licenses:
+    - MIT
+- repo: openmandriva_rolling
+  subrepo: main/release
+  srcname: superfile
+  binnames:
+    - superfile
+  visiblename: superfile
+  version: 1.5.0
+  origversion: 1.5.0-1
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - azure.grade9592@eagereverest.com
+  licenses:
+    - MIT
+  categories:
+    - Application/File Manager
+- repo: openmandriva_cooker
+  subrepo: main/release
+  srcname: superfile
+  binnames:
+    - superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - leetalbert@pm.me
+  licenses:
+    - MIT
+  categories:
+    - Application/File Manager
+- repo: parabola
+  subrepo: extra
+  srcname: superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  licenses:
+    - MIT
+- repo: pclinuxos
+  srcname: superfile
+  visiblename: superfile
+  version: 1.3.3
+  origversion: 1.3.3-1pclos2025
+  status: outdated
+  summary: Command line file manager
+  categories:
+    - File tools
+- repo: pkgsrc_2026_1
+  srcname: sysutils/superfile
+  binname: superfile
+  visiblename: sysutils/superfile
+  version: 1.1.2
+  origversion: 1.1.2nb17
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_2026_2
+  srcname: sysutils/superfile
+  binname: superfile
+  visiblename: sysutils/superfile
+  version: 1.1.2
+  origversion: 1.1.2nb20
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_current
+  srcname: sysutils/superfile
+  binname: superfile
+  visiblename: sysutils/superfile
+  version: 1.1.2
+  origversion: 1.1.2nb24
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: scoop
+  subrepo: main
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: stalix
+  srcname: bin/super/file
+  binname: bin/super/file
+  visiblename: bin/super/file
+  version: 1.6.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/super/file
+  binname: bin/super/file
+  visiblename: bin/super/file
+  version: 1.6.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: t2
+  srcname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - MIT
+  categories:
+    - extra/tool
+- repo: tur
+  srcname: superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - everywhereless@github
+- repo: terra_rawhide
+  srcname: superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-1.fcrawhide
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-1.fcrawhide
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: superfile
+  binname: superfile-debuginfo
+  visiblename: superfile-debuginfo
+  version: 1.6.0
+  origversion: 1.6.0-1.fcrawhide
+  status: newest
+  summary: Debug information for package superfile
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: superfile
+  binname: superfile-debuginfo
+  visiblename: superfile-debuginfo
+  version: 1.6.0
+  origversion: 1.6.0-1.fcrawhide
+  status: newest
+  summary: Debug information for package superfile
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: superfile
+  binname: superfile-debugsource
+  visiblename: superfile-debugsource
+  version: 1.6.0
+  origversion: 1.6.0-1.fcrawhide
+  status: newest
+  summary: Debug sources for package superfile
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: superfile
+  binname: superfile-debugsource
+  visiblename: superfile-debugsource
+  version: 1.6.0
+  origversion: 1.6.0-1.fcrawhide
+  status: newest
+  summary: Debug sources for package superfile
+  maintainers:
+    - cbrunofb@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
