@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.6.0"
   latestRelease: "v1.6.0"
   latestPrerelease: "v1.6.0-rc1"
-  collectedAt: 2026-09-11T04:19:25Z
+  collectedAt: 2026-09-11T20:50:34Z
 timeline:
   created: 2024-03-19
   lastCommit: 2026-09-06
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-06-07
   lastPrerelease: 2026-05-27
 popularity:
-  star: 23151
+  star: 23153
   watcher: 72
-  fork: 844
+  fork: 846
   release: 26
   contributor: 119
   pullRequest: 968
@@ -97,7 +97,7 @@ total:
   commit: 2279
 ---
 path: /home/runner/.x-repo/github.com/yorukot/superfile
-collectedAt: 2026-09-11T04:19:30Z
+collectedAt: 2026-09-11T20:50:40Z
 loc:
   Go:
     code: 21882
