@@ -38,7 +38,7 @@ Total: **31,077** lines of code across **274** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 23,174 · **Forks**: 848 · **Open issues**: 598 · **Contributors**: 119
+- **Stars**: 23,229 · **Forks**: 850 · **Open issues**: 598 · **Contributors**: 119
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **31,077** lines of code across **274** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 1 | 17 | 0 | 7 | 3 |
-| last60d | 2026-07-15 | 0 | 13 | 60 | 14 | 29 | 24 |
-| 90d | 2026-06-15 | 0 | 39 | 68 | 17 | 36 | 48 |
-| last180d | 2026-03-17 | 2 | 91 | 69 | 29 | 48 | 119 |
-| 360d | 2025-09-18 | 7 | 227 | 74 | 74 | 103 | 255 |
-| last720d | 2024-09-23 | 18 | 525 | 74 | 264 | 179 | 1244 |
+| 30d | 2026-08-15 | 0 | 0 | 16 | 0 | 7 | 1 |
+| last60d | 2026-07-16 | 0 | 11 | 60 | 13 | 29 | 18 |
+| 90d | 2026-06-16 | 0 | 39 | 68 | 17 | 36 | 28 |
+| last180d | 2026-03-18 | 2 | 89 | 69 | 29 | 48 | 117 |
+| 360d | 2025-09-19 | 7 | 225 | 74 | 74 | 103 | 244 |
+| last720d | 2024-09-24 | 18 | 523 | 74 | 263 | 179 | 1243 |
 
 ## Release assets
 
@@ -67,16 +67,6 @@ Total: **31,077** lines of code across **274** files in the top 5 languages.
 | [superfile-windows-v1.6.0-amd64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-windows-v1.6.0-amd64.zip) | 13.1 MiB | `native/win/x64` |
 | [superfile-windows-v1.6.0-arm64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-windows-v1.6.0-arm64.zip) | 12.0 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **50** distros on [repology.org](https://repology.org/project/superfile). **26** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.6.0` | ✅ latest |
-| Homebrew | `1.6.0` | ✅ latest |
-| Nix unstable | `1.3.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for superfile lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `superfile` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -86,4 +76,4 @@ Install metadata for superfile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:31:05Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:37:43Z._
