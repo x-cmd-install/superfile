@@ -4,7 +4,7 @@
 
 Pretty fancy and modern terminal file manager
 
-![superfile](https://repo.x-cmd.io/superfile.svg)
+[![x-cmd/install — superfile Code Quality Monitoring Repo Card](https://repo.x-cmd.io/superfile.svg)](https://x-cmd.com/install/superfile)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **31,077** lines of code across **274** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 23,272 · **Forks**: 852 · **Open issues**: 598 · **Contributors**: 119
+- **Stars**: 23,302 · **Forks**: 856 · **Open issues**: 598 · **Contributors**: 119
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **31,077** lines of code across **274** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 13 | 0 | 4 | 1 |
-| last60d | 2026-07-20 | 0 | 10 | 59 | 13 | 26 | 18 |
-| 90d | 2026-06-20 | 0 | 27 | 64 | 17 | 34 | 28 |
-| last180d | 2026-03-22 | 2 | 88 | 68 | 29 | 48 | 117 |
-| 360d | 2025-09-23 | 7 | 219 | 74 | 72 | 101 | 244 |
-| last720d | 2024-09-28 | 18 | 522 | 74 | 260 | 179 | 1236 |
+| 30d | 2026-08-21 | 0 | 0 | 12 | 0 | 4 | 1 |
+| last60d | 2026-07-22 | 0 | 10 | 58 | 11 | 26 | 18 |
+| 90d | 2026-06-22 | 0 | 25 | 63 | 16 | 33 | 28 |
+| last180d | 2026-03-24 | 2 | 87 | 68 | 29 | 48 | 117 |
+| 360d | 2025-09-25 | 7 | 218 | 74 | 72 | 101 | 244 |
+| last720d | 2024-09-30 | 18 | 521 | 74 | 259 | 179 | 1235 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for superfile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:23:54Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:39:03Z._
