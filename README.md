@@ -4,7 +4,7 @@
 
 Pretty fancy and modern terminal file manager
 
-[![x-cmd/install — superfile Code Quality Monitoring Repo Card](https://repo.x-cmd.io/superfile.svg)](https://x-cmd.com/install/superfile)
+[![x-cmd/install — superfile Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/superfile.svg)](https://x-cmd.com/install/superfile)
 
 ## Install
 
@@ -38,22 +38,22 @@ Total: **31,077** lines of code across **274** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 23,334 · **Forks**: 862 · **Open issues**: 598 · **Contributors**: 119
+- **Stars**: 23,350 · **Forks**: 863 · **Open issues**: 599 · **Contributors**: 119
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 726 · **Open PRs**: 75 · **Closed issues**: 404 · **Open issues**: 194 · **Commits**: 2279
+- **Releases**: 26 · **Merged PRs**: 726 · **Open PRs**: 75 · **Closed issues**: 404 · **Open issues**: 195 · **Commits**: 2279
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 12 | 0 | 3 | 1 |
-| last60d | 2026-07-24 | 0 | 7 | 58 | 11 | 22 | 6 |
-| 90d | 2026-06-24 | 0 | 25 | 64 | 17 | 32 | 27 |
-| last180d | 2026-03-26 | 2 | 87 | 69 | 30 | 47 | 117 |
-| 360d | 2025-09-27 | 7 | 216 | 75 | 73 | 100 | 242 |
-| last720d | 2024-10-02 | 18 | 520 | 75 | 258 | 178 | 1235 |
+| 30d | 2026-08-24 | 0 | 0 | 12 | 0 | 4 | 1 |
+| last60d | 2026-07-25 | 0 | 5 | 55 | 9 | 22 | 6 |
+| 90d | 2026-06-25 | 0 | 25 | 64 | 17 | 33 | 27 |
+| last180d | 2026-03-27 | 2 | 87 | 69 | 30 | 47 | 117 |
+| 360d | 2025-09-28 | 7 | 216 | 75 | 73 | 101 | 242 |
+| last720d | 2024-10-03 | 18 | 519 | 75 | 257 | 179 | 1222 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for superfile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:33:48Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:30:16Z._
