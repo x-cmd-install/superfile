@@ -14,11 +14,11 @@ x install superfile
 
 ## Code insight
 
-Total: **31,077** lines of code across **274** files in the top 5 languages.
+Total: **31,079** lines of code across **274** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 21,882 | 2,002 | 3,483 | 207 |
+| Go | 21,884 | 2,002 | 3,483 | 207 |
 | Yaml | 3,333 | 0 | 891 | 2 |
 | Css | 2,060 | 50 | 304 | 4 |
 | Toml | 1,239 | 671 | 451 | 35 |
@@ -33,27 +33,27 @@ Total: **31,077** lines of code across **274** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.0` (2026-06-07)
-- **Last commit**: 2026-09-06
+- **Last commit**: 2026-09-28
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 23,408 · **Forks**: 868 · **Open issues**: 600 · **Contributors**: 119
+- **Stars**: 23,426 · **Forks**: 868 · **Open issues**: 600 · **Contributors**: 119
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 726 · **Open PRs**: 76 · **Closed issues**: 404 · **Open issues**: 196 · **Commits**: 2279
+- **Releases**: 26 · **Merged PRs**: 729 · **Open PRs**: 74 · **Closed issues**: 404 · **Open issues**: 196 · **Commits**: 2282
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 12 | 0 | 4 | 1 |
-| last60d | 2026-07-30 | 0 | 4 | 39 | 2 | 14 | 3 |
-| 90d | 2026-06-30 | 0 | 24 | 65 | 17 | 33 | 26 |
-| last180d | 2026-04-01 | 2 | 86 | 70 | 30 | 48 | 107 |
-| 360d | 2025-10-03 | 7 | 212 | 76 | 71 | 98 | 236 |
-| last720d | 2024-10-08 | 17 | 516 | 76 | 254 | 180 | 1208 |
+| 30d | 2026-08-30 | 0 | 0 | 13 | 0 | 4 | 4 |
+| last60d | 2026-07-31 | 0 | 4 | 36 | 2 | 14 | 6 |
+| 90d | 2026-07-01 | 0 | 23 | 62 | 17 | 33 | 29 |
+| last180d | 2026-04-02 | 2 | 88 | 68 | 30 | 48 | 110 |
+| 360d | 2025-10-04 | 7 | 215 | 74 | 71 | 98 | 239 |
+| last720d | 2024-10-09 | 17 | 519 | 74 | 254 | 180 | 1211 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for superfile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:05:08Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:28:51Z._
