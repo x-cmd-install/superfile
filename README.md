@@ -33,27 +33,27 @@ Total: **31,123** lines of code across **274** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.0` (2026-06-07)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-21
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 23,879 · **Forks**: 865 · **Open issues**: 605 · **Contributors**: 120
+- **Stars**: 23,889 · **Forks**: 832 · **Open issues**: 605 · **Contributors**: 121
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 730 · **Open PRs**: 92 · **Closed issues**: 405 · **Open issues**: 200 · **Commits**: 2283
+- **Releases**: 26 · **Merged PRs**: 731 · **Open PRs**: 91 · **Closed issues**: 407 · **Open issues**: 198 · **Commits**: 2284
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 23 | 0 | 7 | 4 |
-| last60d | 2026-08-22 | 0 | 3 | 32 | 0 | 11 | 5 |
-| 90d | 2026-07-23 | 0 | 11 | 76 | 11 | 31 | 19 |
-| last180d | 2026-04-24 | 2 | 76 | 86 | 27 | 51 | 105 |
-| 360d | 2025-10-26 | 5 | 197 | 91 | 68 | 93 | 224 |
-| last720d | 2024-10-31 | 17 | 511 | 92 | 248 | 183 | 1183 |
+| 30d | 2026-09-22 | 0 | 1 | 22 | 2 | 4 | 5 |
+| last60d | 2026-08-23 | 0 | 4 | 30 | 2 | 8 | 6 |
+| 90d | 2026-07-24 | 0 | 12 | 74 | 13 | 27 | 20 |
+| last180d | 2026-04-25 | 2 | 77 | 85 | 29 | 49 | 106 |
+| 360d | 2025-10-27 | 5 | 198 | 90 | 70 | 91 | 225 |
+| last720d | 2024-11-01 | 17 | 512 | 91 | 250 | 181 | 1183 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for superfile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:24:22Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:23:04Z._
