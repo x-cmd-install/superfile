@@ -38,22 +38,22 @@ x install superfile
 
 ## 流行度
 
-- **Star**: 23,889 · **Fork**: 832 · **开放 issue**: 605 · **贡献者**: 121
+- **Star**: 23,899 · **Fork**: 834 · **开放 issue**: 605 · **贡献者**: 121
 
 ## 累计统计
 
-- **发布数**: 26 · **已合并 PR**: 731 · **开放 PR**: 91 · **已关闭 issue**: 407 · **开放 issue**: 198 · **提交数**: 2284
+- **发布数**: 26 · **已合并 PR**: 731 · **开放 PR**: 93 · **已关闭 issue**: 406 · **开放 issue**: 199 · **提交数**: 2284
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 22 | 2 | 4 | 5 |
-| last60d | 2026-08-23 | 0 | 4 | 30 | 2 | 8 | 6 |
-| 90d | 2026-07-24 | 0 | 12 | 74 | 13 | 27 | 20 |
-| last180d | 2026-04-25 | 2 | 77 | 85 | 29 | 49 | 106 |
-| 360d | 2025-10-27 | 5 | 198 | 90 | 70 | 91 | 225 |
-| last720d | 2024-11-01 | 17 | 512 | 91 | 250 | 181 | 1183 |
+| 30d | 2026-09-23 | 0 | 1 | 24 | 1 | 5 | 5 |
+| last60d | 2026-08-24 | 0 | 4 | 32 | 1 | 9 | 6 |
+| 90d | 2026-07-25 | 0 | 10 | 73 | 10 | 27 | 20 |
+| last180d | 2026-04-26 | 2 | 77 | 87 | 28 | 50 | 106 |
+| 360d | 2025-10-28 | 5 | 198 | 92 | 68 | 92 | 225 |
+| last720d | 2024-11-02 | 17 | 512 | 93 | 249 | 182 | 1183 |
 
 ## Release 资产
 
@@ -67,6 +67,16 @@ x install superfile
 | [superfile-windows-v1.6.0-amd64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-windows-v1.6.0-amd64.zip) | 13.1 MiB | `native/win/x64` |
 | [superfile-windows-v1.6.0-arm64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-windows-v1.6.0-arm64.zip) | 12.0 MiB | `native/win/arm64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/superfile) 上共有 **51** 个发行版报告此项目。**29** 个 ✅ 已是最新上游版本，**10** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `1.6.0` | ✅ latest |
+| Homebrew | `1.6.0` | ✅ latest |
+| Nix unstable | `1.6.0` | ✅ latest |
+
 ## 改进这些数据
 
 superfile 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `superfile` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -76,4 +86,4 @@ superfile 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T04:23:04Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T04:28:57Z._
