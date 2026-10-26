@@ -1,3 +1,36 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: superfile
+  visiblename: superfile
+  version: 1.1.2
+  origversion: null
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - me@momee.mt
+  licenses:
+    - MIT
 - repo: aerynos
   srcname: superfile
   visiblename: superfile
@@ -316,18 +349,6 @@
     - MPL-2.0
   categories:
     - app-misc
-- repo: pkgsrc_2026_3
-  srcname: sysutils/superfile
-  binname: superfile
-  visiblename: sysutils/superfile
-  version: 1.1.2
-  origversion: 1.1.2nb24
-  status: outdated
-  summary: Pretty fancy and modern terminal file manager
-  maintainers:
-    - pkgsrc-users@netbsd.org
-  categories:
-    - sysutils
 - repo: macports
   srcname: sysutils/superfile
   binname: superfile
@@ -351,39 +372,6 @@
   origversion: 1.6.0-1
   status: newest
   summary: Pretty fancy and modern terminal file manager
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: superfile
-  binname: superfile
-  visiblename: superfile
-  version: 1.6.0
-  origversion: 1.6.0-1
-  status: newest
-  summary: Pretty fancy and modern terminal file manager
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: superfile
-  binname: superfile
-  visiblename: superfile
-  version: 1.6.0
-  origversion: 1.6.0-1
-  status: newest
-  summary: Pretty fancy and modern terminal file manager
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: superfile
-  visiblename: superfile
-  version: 1.1.2
-  origversion: null
-  status: outdated
-  summary: Pretty fancy and modern terminal file manager
-  maintainers:
-    - me@momee.mt
   licenses:
     - MIT
 - repo: nix_stable_24_11
@@ -503,6 +491,18 @@
   visiblename: sysutils/superfile
   version: 1.1.2
   origversion: 1.1.2nb20
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - pkgsrc-users@netbsd.org
+  categories:
+    - sysutils
+- repo: pkgsrc_2026_3
+  srcname: sysutils/superfile
+  binname: superfile
+  visiblename: sysutils/superfile
+  version: 1.1.2
+  origversion: 1.1.2nb25
   status: outdated
   summary: Pretty fancy and modern terminal file manager
   maintainers:
