@@ -38,22 +38,22 @@ Total: **31,380** lines of code across **274** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 23,989 · **Forks**: 836 · **Open issues**: 605 · **Contributors**: 120
+- **Stars**: 23,998 · **Forks**: 837 · **Open issues**: 605 · **Contributors**: 120
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 724 · **Open PRs**: 93 · **Closed issues**: 406 · **Open issues**: 199 · **Commits**: 2285
+- **Releases**: 26 · **Merged PRs**: 724 · **Open PRs**: 95 · **Closed issues**: 406 · **Open issues**: 199 · **Commits**: 2285
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 1 | 18 | 1 | 2 | 3 |
-| last60d | 2026-09-03 | 0 | 2 | 31 | 1 | 8 | 6 |
-| 90d | 2026-08-04 | 0 | 6 | 51 | 2 | 17 | 9 |
-| last180d | 2026-05-06 | 2 | 70 | 87 | 27 | 49 | 74 |
-| 360d | 2025-11-07 | 5 | 198 | 92 | 67 | 92 | 222 |
-| last720d | 2024-11-12 | 17 | 506 | 93 | 247 | 181 | 1173 |
+| 30d | 2026-10-04 | 0 | 1 | 18 | 1 | 2 | 3 |
+| last60d | 2026-09-04 | 0 | 2 | 33 | 1 | 8 | 6 |
+| 90d | 2026-08-05 | 0 | 6 | 49 | 2 | 16 | 9 |
+| last180d | 2026-05-07 | 2 | 69 | 89 | 27 | 49 | 74 |
+| 360d | 2025-11-08 | 5 | 198 | 94 | 67 | 92 | 222 |
+| last720d | 2024-11-13 | 17 | 505 | 95 | 244 | 181 | 1173 |
 
 ## Release assets
 
@@ -69,7 +69,7 @@ Total: **31,380** lines of code across **274** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **51** distros on [repology.org](https://repology.org/project/superfile). **29** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **49** distros on [repology.org](https://repology.org/project/superfile). **27** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -86,4 +86,4 @@ Install metadata for superfile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:41:39Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:22:56Z._
