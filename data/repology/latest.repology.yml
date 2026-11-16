@@ -1,48 +1,15 @@
-- repo: slackbuilds
-  srcname: system/superfile
-  visiblename: system/superfile
-  version: 1.6.0
-  origversion: null
-  status: newest
-  maintainers:
-    - boxjake.romero@protonmail.com
-  categories:
-    - system
-- repo: stalix
-  srcname: bin/super/file
-  binname: bin/super/file
-  visiblename: bin/super/file
-  version: 1.6.0
-  origversion: null
-  status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
-- repo: stalix_dev
-  srcname: bin/super/file
-  binname: bin/super/file
-  visiblename: bin/super/file
-  version: 1.6.0
-  origversion: null
-  status: newest
-  maintainers:
-    - anton@samokhvalov.xyz
-  categories:
-    - bin
-- repo: liguros_stable
-  srcname: app-misc/superfile
-  visiblename: app-misc/superfile
-  version: 1.3.3
-  origversion: null
-  status: outdated
+- repo: aur
+  srcname: superfile-git
+  binname: superfile-git
+  visiblename: superfile-git
+  version: v1.4.1.rc.r14.g054fbe4
+  origversion: v1.4.1.rc.r14.g054fbe4-1
+  status: rolling
   summary: Pretty fancy and modern terminal file manager
   maintainers:
-    - ingenarelitems@gmail.com
+    - booth-w@aur
   licenses:
     - MIT
-  categories:
-    - app-misc
 - repo: aerynos
   srcname: superfile
   visiblename: superfile
@@ -95,18 +62,6 @@
   summary: Pretty fancy and modern terminal file manager
   licenses:
     - MIT
-- repo: aur
-  srcname: superfile-git
-  binname: superfile-git
-  visiblename: superfile-git
-  version: v1.4.1.rc.r14.g054fbe4
-  origversion: v1.4.1.rc.r14.g054fbe4-1
-  status: rolling
-  summary: Pretty fancy and modern terminal file manager
-  maintainers:
-    - booth-w@aur
-  licenses:
-    - MIT
 - repo: artix
   subrepo: galaxy
   srcname: superfile
@@ -137,6 +92,19 @@
     - fuz@freebsd.org
   categories:
     - sysutils
+- repo: t2
+  srcname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - MIT
+  categories:
+    - extra/tool
 - repo: gentoo_ovl_guru
   srcname: app-misc/superfile
   visiblename: app-misc/superfile
@@ -265,6 +233,29 @@
   version: 1.3.1
   origversion: null
   status: legacy
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - ingenarelitems@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - app-misc
+- repo: tur
+  srcname: superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: null
+  status: newest
+  summary: Pretty fancy and modern terminal file manager
+  maintainers:
+    - everywhereless@github
+- repo: liguros_stable
+  srcname: app-misc/superfile
+  visiblename: app-misc/superfile
+  version: 1.3.3
+  origversion: null
+  status: outdated
   summary: Pretty fancy and modern terminal file manager
   maintainers:
     - ingenarelitems@gmail.com
@@ -534,7 +525,7 @@
   binname: superfile
   visiblename: sysutils/superfile
   version: 1.1.2
-  origversion: 1.1.2nb25
+  origversion: 1.1.2nb26
   status: outdated
   summary: Pretty fancy and modern terminal file manager
   maintainers:
@@ -562,29 +553,38 @@
   status: newest
   licenses:
     - MIT
-- repo: t2
-  srcname: superfile
-  visiblename: superfile
+- repo: slackbuilds
+  srcname: system/superfile
+  visiblename: system/superfile
   version: 1.6.0
   origversion: null
   status: newest
-  summary: Pretty fancy and modern terminal file manager
   maintainers:
-    - rene@exactco.de
-  licenses:
-    - MIT
+    - boxjake.romero@protonmail.com
   categories:
-    - extra/tool
-- repo: tur
-  srcname: superfile
-  binname: superfile
-  visiblename: superfile
+    - system
+- repo: stalix
+  srcname: bin/super/file
+  binname: bin/super/file
+  visiblename: bin/super/file
   version: 1.6.0
   origversion: null
   status: newest
-  summary: Pretty fancy and modern terminal file manager
   maintainers:
-    - everywhereless@github
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/super/file
+  binname: bin/super/file
+  visiblename: bin/super/file
+  version: 1.6.0
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
 - repo: terra_rawhide
   srcname: superfile
   binname: superfile
