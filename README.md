@@ -14,14 +14,14 @@ x install superfile
 
 ## Code insight
 
-Total: **31,383** lines of code across **274** files in the top 5 languages.
+Total: **31,863** lines of code across **275** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 22,188 | 2,006 | 3,506 | 207 |
-| Yaml | 3,333 | 0 | 891 | 2 |
+| Go | 22,445 | 2,010 | 3,528 | 208 |
+| Yaml | 3,554 | 0 | 951 | 2 |
 | Css | 2,060 | 50 | 304 | 4 |
-| Toml | 1,239 | 671 | 451 | 35 |
+| Toml | 1,236 | 671 | 450 | 35 |
 | Python | 1,021 | 70 | 244 | 26 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **31,383** lines of code across **274** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.0` (2026-06-07)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-20
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 24,109 · **Forks**: 837 · **Open issues**: 610 · **Contributors**: 121
+- **Stars**: 24,110 · **Forks**: 837 · **Open issues**: 609 · **Contributors**: 123
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 726 · **Open PRs**: 102 · **Closed issues**: 407 · **Open issues**: 203 · **Commits**: 2287
+- **Releases**: 26 · **Merged PRs**: 743 · **Open PRs**: 93 · **Closed issues**: 408 · **Open issues**: 201 · **Commits**: 2304
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 2 | 16 | 1 | 6 | 3 |
-| last60d | 2026-09-20 | 0 | 3 | 36 | 2 | 11 | 8 |
-| 90d | 2026-08-21 | 0 | 7 | 42 | 2 | 15 | 9 |
-| last180d | 2026-05-23 | 2 | 64 | 96 | 24 | 51 | 74 |
-| 360d | 2025-11-24 | 5 | 197 | 101 | 63 | 93 | 222 |
-| last720d | 2024-11-29 | 16 | 489 | 102 | 232 | 182 | 1110 |
+| 30d | 2026-10-21 | 0 | 10 | 20 | 1 | 6 | 20 |
+| last60d | 2026-09-21 | 0 | 14 | 37 | 2 | 11 | 25 |
+| 90d | 2026-08-22 | 0 | 20 | 42 | 3 | 14 | 26 |
+| last180d | 2026-05-24 | 2 | 81 | 88 | 25 | 48 | 91 |
+| 360d | 2025-11-25 | 5 | 214 | 92 | 64 | 92 | 239 |
+| last720d | 2024-11-30 | 16 | 504 | 93 | 233 | 180 | 1126 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for superfile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:02:59Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T06:56:15Z._
