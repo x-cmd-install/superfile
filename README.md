@@ -14,15 +14,15 @@ x install superfile
 
 ## Code insight
 
-Total: **31,863** lines of code across **275** files in the top 5 languages.
+Total: **30,995** lines of code across **280** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 22,445 | 2,010 | 3,528 | 208 |
-| Yaml | 3,554 | 0 | 951 | 2 |
-| Css | 2,060 | 50 | 304 | 4 |
-| Toml | 1,236 | 671 | 450 | 35 |
+| Go | 22,505 | 2,032 | 3,542 | 209 |
+| Yaml | 3,523 | 0 | 940 | 2 |
+| Toml | 1,314 | 719 | 478 | 37 |
 | Python | 1,021 | 70 | 244 | 26 |
+| Css | 789 | 35 | 53 | 6 |
 
 ## Source
 
@@ -32,50 +32,51 @@ Total: **31,863** lines of code across **275** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.6.0` (2026-06-07)
+- **Latest**: `v1.6.1` (2026-11-20)
 - **Last commit**: 2026-11-20
-- **Assets in release**: 7
+- **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 24,110 · **Forks**: 837 · **Open issues**: 609 · **Contributors**: 123
+- **Stars**: 24,113 · **Forks**: 837 · **Open issues**: 609 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 743 · **Open PRs**: 93 · **Closed issues**: 408 · **Open issues**: 201 · **Commits**: 2304
+- **Releases**: 27 · **Merged PRs**: 764 · **Open PRs**: 83 · **Closed issues**: 410 · **Open issues**: 199 · **Commits**: 2325
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 10 | 20 | 1 | 6 | 20 |
-| last60d | 2026-09-21 | 0 | 14 | 37 | 2 | 11 | 25 |
-| 90d | 2026-08-22 | 0 | 20 | 42 | 3 | 14 | 26 |
-| last180d | 2026-05-24 | 2 | 81 | 88 | 25 | 48 | 91 |
-| 360d | 2025-11-25 | 5 | 214 | 92 | 64 | 92 | 239 |
-| last720d | 2024-11-30 | 16 | 504 | 93 | 233 | 180 | 1126 |
+| 30d | 2026-10-22 | 1 | 26 | 14 | 1 | 6 | 41 |
+| last60d | 2026-09-22 | 1 | 32 | 31 | 2 | 10 | 46 |
+| 90d | 2026-08-23 | 1 | 38 | 35 | 3 | 13 | 47 |
+| last180d | 2026-05-25 | 3 | 102 | 78 | 25 | 46 | 112 |
+| 360d | 2025-11-26 | 6 | 235 | 82 | 66 | 90 | 260 |
+| last720d | 2024-12-01 | 17 | 524 | 83 | 235 | 178 | 1140 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [superfile-darwin-v1.6.0-amd64.tar.gz](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-darwin-v1.6.0-amd64.tar.gz) | 13.2 MiB | `native/darwin/x64` |
-| [superfile-darwin-v1.6.0-arm64.tar.gz](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-darwin-v1.6.0-arm64.tar.gz) | 12.4 MiB | `native/darwin/arm64` |
-| [superfile-linux-v1.6.0-amd64.tar.gz](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-linux-v1.6.0-amd64.tar.gz) | 12.9 MiB | `native/linux/x64` |
-| [superfile-linux-v1.6.0-arm64.tar.gz](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-linux-v1.6.0-arm64.tar.gz) | 11.8 MiB | `native/linux/arm64` |
-| [superfile-v1.6.0-checksums.txt](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-v1.6.0-checksums.txt) | 612 B | `other` |
-| [superfile-windows-v1.6.0-amd64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-windows-v1.6.0-amd64.zip) | 13.1 MiB | `native/win/x64` |
-| [superfile-windows-v1.6.0-arm64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.0/superfile-windows-v1.6.0-arm64.zip) | 12.0 MiB | `native/win/arm64` |
+| [superfile-darwin-v1.6.1-amd64.tar.gz](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-darwin-v1.6.1-amd64.tar.gz) | 14.8 MiB | `native/darwin/x64` |
+| [superfile-darwin-v1.6.1-arm64.tar.gz](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-darwin-v1.6.1-arm64.tar.gz) | 13.7 MiB | `native/darwin/arm64` |
+| [superfile-docs-v1.6.1.tar.gz](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-docs-v1.6.1.tar.gz) | 7.5 MiB | `native/unknown` |
+| [superfile-linux-v1.6.1-amd64.tar.gz](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-linux-v1.6.1-amd64.tar.gz) | 13.8 MiB | `native/linux/x64` |
+| [superfile-linux-v1.6.1-arm64.tar.gz](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-linux-v1.6.1-arm64.tar.gz) | 12.6 MiB | `native/linux/arm64` |
+| [superfile-v1.6.1-checksums.txt](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-v1.6.1-checksums.txt) | 707 B | `other` |
+| [superfile-windows-v1.6.1-amd64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-windows-v1.6.1-amd64.zip) | 14.0 MiB | `native/win/x64` |
+| [superfile-windows-v1.6.1-arm64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-windows-v1.6.1-arm64.zip) | 12.8 MiB | `native/win/arm64` |
 
 ## Distribution status
 
-Reported by **51** distros on [repology.org](https://repology.org/project/superfile). **29** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **51** distros on [repology.org](https://repology.org/project/superfile). **3** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.6.0` | ✅ latest |
-| Homebrew | `1.6.0` | ✅ latest |
-| Nix unstable | `1.6.0` | ✅ latest |
+| Arch | `1.6.0` | ⚠️ outdated |
+| Homebrew | `1.6.1` | ✅ latest |
+| Nix unstable | `1.6.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -86,4 +87,4 @@ Install metadata for superfile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T06:56:15Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T06:49:45Z._
