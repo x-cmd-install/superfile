@@ -38,22 +38,22 @@ Total: **30,995** lines of code across **280** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 24,113 · **Forks**: 837 · **Open issues**: 609 · **Contributors**: 127
+- **Stars**: 24,117 · **Forks**: 837 · **Open issues**: 610 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 764 · **Open PRs**: 83 · **Closed issues**: 410 · **Open issues**: 199 · **Commits**: 2325
+- **Releases**: 27 · **Merged PRs**: 764 · **Open PRs**: 86 · **Closed issues**: 410 · **Open issues**: 200 · **Commits**: 2325
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 26 | 14 | 1 | 6 | 41 |
-| last60d | 2026-09-22 | 1 | 32 | 31 | 2 | 10 | 46 |
-| 90d | 2026-08-23 | 1 | 38 | 35 | 3 | 13 | 47 |
-| last180d | 2026-05-25 | 3 | 102 | 78 | 25 | 46 | 112 |
-| 360d | 2025-11-26 | 6 | 235 | 82 | 66 | 90 | 260 |
-| last720d | 2024-12-01 | 17 | 524 | 83 | 235 | 178 | 1140 |
+| 30d | 2026-10-23 | 1 | 26 | 18 | 1 | 6 | 41 |
+| last60d | 2026-09-23 | 1 | 32 | 35 | 2 | 11 | 46 |
+| 90d | 2026-08-24 | 1 | 38 | 39 | 3 | 14 | 47 |
+| last180d | 2026-05-26 | 3 | 102 | 82 | 25 | 47 | 112 |
+| 360d | 2025-11-27 | 6 | 235 | 85 | 66 | 91 | 260 |
+| last720d | 2024-12-02 | 17 | 523 | 86 | 235 | 179 | 1137 |
 
 ## Release assets
 
@@ -70,11 +70,11 @@ Total: **30,995** lines of code across **280** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **51** distros on [repology.org](https://repology.org/project/superfile). **3** are ✅ on the latest upstream release, **36** are ⚠️ on an older version.
+Reported by **51** distros on [repology.org](https://repology.org/project/superfile). **9** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.6.0` | ⚠️ outdated |
+| Arch | `1.6.1` | ✅ latest |
 | Homebrew | `1.6.1` | ✅ latest |
 | Nix unstable | `1.6.0` | ⚠️ outdated |
 
@@ -87,4 +87,4 @@ Install metadata for superfile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T06:49:45Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:22:12Z._
