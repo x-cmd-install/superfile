@@ -1,27 +1,9 @@
-- repo: artix
-  subrepo: galaxy
-  srcname: superfile
-  binname: superfile
-  visiblename: superfile
-  version: 1.6.0
-  origversion: 1.6.0-1
-  status: outdated
-  summary: Pretty fancy and modern terminal file manager
-  licenses:
-    - MIT
-- repo: chocolatey
-  binname: superfile
-  visiblename: Superfile (Portable)
-  version: 1.6.0
-  origversion: null
-  status: outdated
-  summary: Pretty fancy and modern terminal file manager
 - repo: aerynos
   srcname: superfile
   visiblename: superfile
-  version: 1.6.0
+  version: 1.6.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Pretty fancy and modern terminal file manager
   licenses:
     - MIT
@@ -62,9 +44,9 @@
   srcname: superfile
   binname: superfile
   visiblename: superfile
-  version: 1.6.0
-  origversion: 1.6.0-1
-  status: outdated
+  version: 1.6.1
+  origversion: 1.6.1-1
+  status: newest
   summary: Pretty fancy and modern terminal file manager
   licenses:
     - MIT
@@ -80,6 +62,24 @@
     - booth-w@aur
   licenses:
     - MIT
+- repo: artix
+  subrepo: galaxy
+  srcname: superfile
+  binname: superfile
+  visiblename: superfile
+  version: 1.6.0
+  origversion: 1.6.0-1
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: superfile
+  visiblename: Superfile (Portable)
+  version: 1.6.0
+  origversion: null
+  status: outdated
+  summary: Pretty fancy and modern terminal file manager
 - repo: freebsd
   srcname: sysutils/superfile
   binname: superfile
@@ -357,9 +357,9 @@
   srcname: superfile
   binname: superfile
   visiblename: superfile
-  version: 1.6.0
-  origversion: 1.6.0-1
-  status: outdated
+  version: 1.6.1
+  origversion: 1.6.1-1
+  status: newest
   summary: Pretty fancy and modern terminal file manager
   licenses:
     - MIT
@@ -455,9 +455,9 @@
   binnames:
     - superfile
   visiblename: superfile
-  version: 1.6.0
-  origversion: 1.6.0-1
-  status: outdated
+  version: 1.6.1
+  origversion: 1.6.1-1
+  status: newest
   summary: Pretty fancy and modern terminal file manager
   maintainers:
     - leetalbert@pm.me
@@ -544,9 +544,9 @@
   srcname: bin/super/file
   binname: bin/super/file
   visiblename: bin/super/file
-  version: 1.6.0
+  version: 1.6.1
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - anton@samokhvalov.xyz
   categories:
@@ -579,9 +579,9 @@
   srcname: superfile
   binname: superfile
   visiblename: superfile
-  version: 1.6.0
+  version: 1.6.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Pretty fancy and modern terminal file manager
   maintainers:
     - everywhereless@github
