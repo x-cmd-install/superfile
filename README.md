@@ -38,22 +38,22 @@ Total: **30,995** lines of code across **280** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 24,117 · **Forks**: 837 · **Open issues**: 610 · **Contributors**: 127
+- **Stars**: 24,118 · **Forks**: 839 · **Open issues**: 612 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 764 · **Open PRs**: 86 · **Closed issues**: 410 · **Open issues**: 200 · **Commits**: 2325
+- **Releases**: 27 · **Merged PRs**: 764 · **Open PRs**: 86 · **Closed issues**: 411 · **Open issues**: 201 · **Commits**: 2325
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 1 | 26 | 18 | 1 | 6 | 41 |
-| last60d | 2026-09-23 | 1 | 32 | 35 | 2 | 11 | 46 |
-| 90d | 2026-08-24 | 1 | 38 | 39 | 3 | 14 | 47 |
-| last180d | 2026-05-26 | 3 | 102 | 82 | 25 | 47 | 112 |
-| 360d | 2025-11-27 | 6 | 235 | 85 | 66 | 91 | 260 |
-| last720d | 2024-12-02 | 17 | 523 | 86 | 235 | 179 | 1137 |
+| 30d | 2026-10-24 | 1 | 26 | 18 | 1 | 8 | 41 |
+| last60d | 2026-09-24 | 1 | 32 | 35 | 2 | 12 | 43 |
+| 90d | 2026-08-25 | 1 | 38 | 39 | 3 | 16 | 47 |
+| last180d | 2026-05-27 | 3 | 93 | 82 | 25 | 49 | 99 |
+| 360d | 2025-11-28 | 6 | 235 | 85 | 66 | 93 | 259 |
+| last720d | 2024-12-03 | 17 | 523 | 86 | 236 | 180 | 1135 |
 
 ## Release assets
 
@@ -70,7 +70,7 @@ Total: **30,995** lines of code across **280** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **51** distros on [repology.org](https://repology.org/project/superfile). **9** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
+Reported by **51** distros on [repology.org](https://repology.org/project/superfile). **12** are ✅ on the latest upstream release, **27** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for superfile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:22:12Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T07:13:43Z._
