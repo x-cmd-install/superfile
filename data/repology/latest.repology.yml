@@ -76,9 +76,9 @@
 - repo: chocolatey
   binname: superfile
   visiblename: Superfile (Portable)
-  version: 1.6.0
+  version: 1.6.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Pretty fancy and modern terminal file manager
 - repo: freebsd
   srcname: sysutils/superfile
@@ -320,9 +320,9 @@
   srcname: sysutils/superfile
   binname: superfile
   visiblename: superfile
-  version: 1.6.0
+  version: 1.6.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Pretty fancy and modern terminal file manager
   maintainers:
     - herbygillot@github
@@ -565,9 +565,9 @@
 - repo: t2
   srcname: superfile
   visiblename: superfile
-  version: 1.6.0
+  version: 1.6.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Pretty fancy and modern terminal file manager
   maintainers:
     - rene@exactco.de
