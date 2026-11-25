@@ -14,11 +14,11 @@ x install superfile
 
 ## 代码洞察
 
-合计: **30,995** 行代码（覆盖前 5 种语言、共 **280** 个文件）。
+合计: **31,087** 行代码（覆盖前 5 种语言、共 **282** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 22,505 | 2,032 | 3,542 | 209 |
+| Go | 22,597 | 2,037 | 3,554 | 211 |
 | Yaml | 3,523 | 0 | 940 | 2 |
 | Toml | 1,314 | 719 | 478 | 37 |
 | Python | 1,021 | 70 | 244 | 26 |
@@ -33,27 +33,27 @@ x install superfile
 ## 发布
 
 - **最新版本**: `v1.6.1` (2026-11-20)
-- **最近提交**: 2026-11-20
+- **最近提交**: 2026-11-24
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 24,118 · **Fork**: 838 · **开放 issue**: 612 · **贡献者**: 127
+- **Star**: 24,121 · **Fork**: 835 · **开放 issue**: 612 · **贡献者**: 128
 
 ## 累计统计
 
-- **发布数**: 27 · **已合并 PR**: 764 · **开放 PR**: 86 · **已关闭 issue**: 411 · **开放 issue**: 201 · **提交数**: 2325
+- **发布数**: 27 · **已合并 PR**: 765 · **开放 PR**: 83 · **已关闭 issue**: 412 · **开放 issue**: 200 · **提交数**: 2326
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 26 | 18 | 1 | 8 | 41 |
-| last60d | 2026-09-25 | 1 | 32 | 34 | 2 | 12 | 43 |
-| 90d | 2026-08-26 | 1 | 37 | 39 | 3 | 16 | 47 |
-| last180d | 2026-05-28 | 2 | 92 | 82 | 25 | 49 | 99 |
-| 360d | 2025-11-29 | 6 | 235 | 85 | 66 | 93 | 259 |
-| last720d | 2024-12-04 | 17 | 523 | 86 | 236 | 180 | 1134 |
+| 30d | 2026-10-26 | 1 | 26 | 18 | 1 | 8 | 42 |
+| last60d | 2026-09-26 | 1 | 32 | 34 | 2 | 12 | 44 |
+| 90d | 2026-08-27 | 1 | 37 | 39 | 3 | 15 | 48 |
+| last180d | 2026-05-29 | 2 | 93 | 81 | 25 | 49 | 100 |
+| 360d | 2025-11-30 | 6 | 236 | 83 | 67 | 92 | 260 |
+| last720d | 2024-12-05 | 17 | 524 | 83 | 237 | 179 | 1134 |
 
 ## Release 资产
 
@@ -68,16 +68,6 @@ x install superfile
 | [superfile-windows-v1.6.1-amd64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-windows-v1.6.1-amd64.zip) | 14.0 MiB | `native/win/x64` |
 | [superfile-windows-v1.6.1-arm64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-windows-v1.6.1-arm64.zip) | 12.8 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/superfile) 上共有 **51** 个发行版报告此项目。**12** 个 ✅ 已是最新上游版本，**27** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.6.1` | ✅ latest |
-| Homebrew | `1.6.1` | ✅ latest |
-| Nix unstable | `1.6.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 superfile 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `superfile` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -87,4 +77,4 @@ superfile 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:36:58Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:09:03Z._

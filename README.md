@@ -14,11 +14,11 @@ x install superfile
 
 ## Code insight
 
-Total: **30,995** lines of code across **280** files in the top 5 languages.
+Total: **31,087** lines of code across **282** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 22,505 | 2,032 | 3,542 | 209 |
+| Go | 22,597 | 2,037 | 3,554 | 211 |
 | Yaml | 3,523 | 0 | 940 | 2 |
 | Toml | 1,314 | 719 | 478 | 37 |
 | Python | 1,021 | 70 | 244 | 26 |
@@ -33,27 +33,27 @@ Total: **30,995** lines of code across **280** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.6.1` (2026-11-20)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-24
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 24,118 · **Forks**: 838 · **Open issues**: 612 · **Contributors**: 127
+- **Stars**: 24,121 · **Forks**: 835 · **Open issues**: 612 · **Contributors**: 128
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 764 · **Open PRs**: 86 · **Closed issues**: 411 · **Open issues**: 201 · **Commits**: 2325
+- **Releases**: 27 · **Merged PRs**: 765 · **Open PRs**: 83 · **Closed issues**: 412 · **Open issues**: 200 · **Commits**: 2326
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 26 | 18 | 1 | 8 | 41 |
-| last60d | 2026-09-25 | 1 | 32 | 34 | 2 | 12 | 43 |
-| 90d | 2026-08-26 | 1 | 37 | 39 | 3 | 16 | 47 |
-| last180d | 2026-05-28 | 2 | 92 | 82 | 25 | 49 | 99 |
-| 360d | 2025-11-29 | 6 | 235 | 85 | 66 | 93 | 259 |
-| last720d | 2024-12-04 | 17 | 523 | 86 | 236 | 180 | 1134 |
+| 30d | 2026-10-26 | 1 | 26 | 18 | 1 | 8 | 42 |
+| last60d | 2026-09-26 | 1 | 32 | 34 | 2 | 12 | 44 |
+| 90d | 2026-08-27 | 1 | 37 | 39 | 3 | 15 | 48 |
+| last180d | 2026-05-29 | 2 | 93 | 81 | 25 | 49 | 100 |
+| 360d | 2025-11-30 | 6 | 236 | 83 | 67 | 92 | 260 |
+| last720d | 2024-12-05 | 17 | 524 | 83 | 237 | 179 | 1134 |
 
 ## Release assets
 
@@ -68,16 +68,6 @@ Total: **30,995** lines of code across **280** files in the top 5 languages.
 | [superfile-windows-v1.6.1-amd64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-windows-v1.6.1-amd64.zip) | 14.0 MiB | `native/win/x64` |
 | [superfile-windows-v1.6.1-arm64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-windows-v1.6.1-arm64.zip) | 12.8 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **51** distros on [repology.org](https://repology.org/project/superfile). **12** are ✅ on the latest upstream release, **27** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.6.1` | ✅ latest |
-| Homebrew | `1.6.1` | ✅ latest |
-| Nix unstable | `1.6.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for superfile lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `superfile` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +77,4 @@ Install metadata for superfile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:36:58Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:09:01Z._
