@@ -38,22 +38,22 @@ Total: **31,087** lines of code across **282** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 24,138 · **Forks**: 837 · **Open issues**: 613 · **Contributors**: 128
+- **Stars**: 24,141 · **Forks**: 832 · **Open issues**: 613 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 765 · **Open PRs**: 86 · **Closed issues**: 412 · **Open issues**: 201 · **Commits**: 2326
+- **Releases**: 27 · **Merged PRs**: 765 · **Open PRs**: 87 · **Closed issues**: 412 · **Open issues**: 201 · **Commits**: 2326
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 26 | 20 | 1 | 9 | 42 |
-| last60d | 2026-09-28 | 1 | 31 | 36 | 2 | 13 | 44 |
-| 90d | 2026-08-29 | 1 | 36 | 42 | 3 | 16 | 48 |
-| last180d | 2026-05-31 | 2 | 93 | 84 | 25 | 50 | 100 |
-| 360d | 2025-12-02 | 6 | 235 | 86 | 67 | 90 | 260 |
-| last720d | 2024-12-07 | 17 | 524 | 86 | 236 | 180 | 1134 |
+| 30d | 2026-10-29 | 1 | 26 | 21 | 1 | 9 | 42 |
+| last60d | 2026-09-29 | 1 | 30 | 37 | 2 | 13 | 44 |
+| 90d | 2026-08-30 | 1 | 36 | 43 | 3 | 16 | 48 |
+| last180d | 2026-06-01 | 2 | 92 | 85 | 25 | 50 | 100 |
+| 360d | 2025-12-03 | 6 | 235 | 87 | 67 | 90 | 260 |
+| last720d | 2024-12-08 | 17 | 524 | 87 | 236 | 180 | 1132 |
 
 ## Release assets
 
@@ -68,6 +68,16 @@ Total: **31,087** lines of code across **282** files in the top 5 languages.
 | [superfile-windows-v1.6.1-amd64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-windows-v1.6.1-amd64.zip) | 14.0 MiB | `native/win/x64` |
 | [superfile-windows-v1.6.1-arm64.zip](https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-windows-v1.6.1-arm64.zip) | 12.8 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **53** distros on [repology.org](https://repology.org/project/superfile). **22** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.6.1` | ✅ latest |
+| Homebrew | `1.6.1` | ✅ latest |
+| Nix unstable | `1.6.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for superfile lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `superfile` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +87,4 @@ Install metadata for superfile lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T07:59:07Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:28:20Z._
