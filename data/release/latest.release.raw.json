@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 15509974,
       "digest": "sha256:506aae6c8fa53c3ddd5816428740cf176fd456d2f67656fdeec92b36a398b673",
-      "download_count": 74,
+      "download_count": 92,
       "created_at": "2026-11-20T18:32:21Z",
       "updated_at": "2026-11-20T18:32:27Z",
       "browser_download_url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-darwin-v1.6.1-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 14340066,
       "digest": "sha256:4d2e4c028b5cc870d0b3afcef88dd501fcf0d4d982ea3301f687ffd446821cb9",
-      "download_count": 305,
+      "download_count": 381,
       "created_at": "2026-11-20T18:32:27Z",
       "updated_at": "2026-11-20T18:32:31Z",
       "browser_download_url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-darwin-v1.6.1-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7909092,
       "digest": "sha256:9d28486d4c55502da0d6d2cffdf40638aeded31e09835d227d3b6a2f54572a1d",
-      "download_count": 26,
+      "download_count": 30,
       "created_at": "2026-11-20T18:32:31Z",
       "updated_at": "2026-11-20T18:32:33Z",
       "browser_download_url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-docs-v1.6.1.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14463280,
       "digest": "sha256:2ab6872fee8fb2d6d120503f964cc693cf5ce328afedbe3988729593870c570e",
-      "download_count": 1730,
+      "download_count": 1983,
       "created_at": "2026-11-20T18:32:33Z",
       "updated_at": "2026-11-20T18:32:36Z",
       "browser_download_url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-linux-v1.6.1-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 13245340,
       "digest": "sha256:643d123cc957b23f871cf9fca873e7bf22452640b8dc0fb87d2bd51722ddf5ed",
-      "download_count": 212,
+      "download_count": 260,
       "created_at": "2026-11-20T18:32:36Z",
       "updated_at": "2026-11-20T18:32:39Z",
       "browser_download_url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-linux-v1.6.1-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 707,
       "digest": "sha256:ddb0993915307966ef75fc32233cb8fe58d12ff8696c1aab3dae88e980047223",
-      "download_count": 113,
+      "download_count": 142,
       "created_at": "2026-11-20T18:42:10Z",
       "updated_at": "2026-11-20T18:42:11Z",
       "browser_download_url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-v1.6.1-checksums.txt"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 14683054,
       "digest": "sha256:dd7156c51bbbba7a0a0d1fcb10ebf60560762c4917729c40450641e27e2cb7c5",
-      "download_count": 1700,
+      "download_count": 1861,
       "created_at": "2026-11-20T18:32:39Z",
       "updated_at": "2026-11-20T18:32:42Z",
       "browser_download_url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-windows-v1.6.1-amd64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 13380717,
       "digest": "sha256:55b25919f7adc8bdafbb47e0cdda10b8d285347a8505f6071f359ea190391965",
-      "download_count": 105,
+      "download_count": 114,
       "created_at": "2026-11-20T18:32:42Z",
       "updated_at": "2026-11-20T18:32:44Z",
       "browser_download_url": "https://github.com/yorukot/superfile/releases/download/v1.6.1/superfile-windows-v1.6.1-arm64.zip"
